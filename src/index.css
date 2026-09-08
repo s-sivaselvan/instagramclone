@@ -1,0 +1,55 @@
+.w-20{
+  width:20%;
+}
+
+.w-30{
+  width:30%;
+}
+
+.logo-text{
+  width:  85px;
+  height: 85px;
+}
+
+.bi{
+  margin-right: 10px;
+}
+
+.story{
+  height:90px;
+  padding: 10px;
+}
+
+.dp{
+  height:20px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.image{
+  width:500px;
+  height:300px;
+}
+
+.suggestions h5{
+  font-size:16px;
+}
+
+.suggestions .dp{
+  margin-top: 0px !important;
+}
+
+.gradient-border {
+  width: 60px;
+  height: 60px;
+  padding: 3px;
+  border-radius: 50%;
+  background:linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+}
+
+.gradient-border img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}

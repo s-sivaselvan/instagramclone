@@ -1,0 +1,188 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "siva_dev",
+        "profilePic": "https://i.pravatar.cc/150?img=12"
+      },
+      "image": "https://picsum.photos/id/1015/600/600",
+      "caption": "Building something amazing 🚀",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "rahul_dev",
+          "comment": "Amazing work bro! 🔥"
+        },
+        {
+          "user": "john_tech",
+          "comment": "Keep going! 💯"
+        }
+      ],
+      "timestamp": "2 hours ago"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "travel_with_raj",
+        "profilePic": "https://i.pravatar.cc/150?img=13"
+      },
+      "image": "https://picsum.photos/id/1016/600/600",
+      "caption": "Exploring new places 🌍✨",
+      "likes": 532,
+      "comments": [
+        {
+          "user": "siva_dev",
+          "comment": "Beautiful place! 😍"
+        },
+        {
+          "user": "travel_lover",
+          "comment": "Where is this?"
+        }
+      ],
+      "timestamp": "5 hours ago"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "foodie_corner",
+        "profilePic": "https://i.pravatar.cc/150?img=14"
+      },
+      "image": "https://picsum.photos/id/292/600/600",
+      "caption": "Good food = Good mood 🍕❤️",
+      "likes": 389,
+      "comments": [
+        {
+          "user": "food_lovers",
+          "comment": "Looks delicious! 🤤"
+        },
+        {
+          "user": "raj_kumar",
+          "comment": "I want this 😋"
+        }
+      ],
+      "timestamp": "1 day ago"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "nature_lovers",
+        "profilePic": "https://i.pravatar.cc/150?img=15"
+      },
+      "image": "https://picsum.photos/id/1040/600/600",
+      "caption": "Nature always has the best views 🌿🌄",
+      "likes": 721,
+      "comments": [
+        {
+          "user": "photography_world",
+          "comment": "What a view! 😍"
+        },
+        {
+          "user": "siva_dev",
+          "comment": "Peaceful ❤️"
+        }
+      ],
+      "timestamp": "2 days ago"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "code_daily",
+        "profilePic": "https://i.pravatar.cc/150?img=16"
+      },
+      "image": "https://picsum.photos/id/0/600/600",
+      "caption": "Late night coding session 💻☕",
+      "likes": 156,
+      "comments": [
+        {
+          "user": "react_master",
+          "comment": "React or Node? 👀"
+        },
+        {
+          "user": "siva_dev",
+          "comment": "React today 😎"
+        }
+      ],
+      "timestamp": "3 days ago"
+    }
+  ],
+  "profile":{
+    "id": 101,
+    "username": "siva_dev",
+    "profilePic": "https://i.pravatar.cc/150?img=12"
+  },
+  "suggestions":[
+       {
+        "id": 102,
+        "username": "travel_with_raj",
+        "profilePic": "https://i.pravatar.cc/150?img=13"
+      },
+      {
+        "id": 103,
+        "username": "foodie_corner",
+        "profilePic": "https://i.pravatar.cc/150?img=14"
+      },
+      {
+        "id": 104,
+        "username": "nature_lovers",
+        "profilePic": "https://i.pravatar.cc/150?img=15"
+      },
+       {
+        "id": 105,
+        "username": "code_daily",
+        "profilePic": "https://i.pravatar.cc/150?img=16"
+      }
+  ],
+  "story": [
+    {
+      "id": 1,
+      "user": {
+        "id": 101,
+        "username": "siva_dev",
+        "profilePic": "https://i.pravatar.cc/150?img=12"
+      },
+      "image": "https://picsum.photos/id/1015/600/600"
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": 102,
+        "username": "travel_with_raj",
+        "profilePic": "https://i.pravatar.cc/150?img=13"
+      },
+      "image": "https://picsum.photos/id/1016/600/600"
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": 103,
+        "username": "foodie_corner",
+        "profilePic": "https://i.pravatar.cc/150?img=14"
+      },
+      "image": "https://picsum.photos/id/292/600/600"
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": 104,
+        "username": "nature_lovers",
+        "profilePic": "https://i.pravatar.cc/150?img=15"
+      },
+      "image": "https://picsum.photos/id/1040/600/600"
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": 105,
+        "username": "code_daily",
+        "profilePic": "https://i.pravatar.cc/150?img=16"
+      },
+      "image": "https://picsum.photos/id/0/600/600"
+    }
+  ]
+} 
