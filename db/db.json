@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "user": {
         "id": 101,
         "username": "siva_dev",
@@ -23,7 +23,7 @@
       "timestamp": "2 hours ago"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": {
         "id": 102,
         "username": "travel_with_raj",
@@ -45,7 +45,7 @@
       "timestamp": "5 hours ago"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": {
         "id": 103,
         "username": "foodie_corner",
@@ -67,7 +67,7 @@
       "timestamp": "1 day ago"
     },
     {
-      "id": 4,
+      "id": "4",
       "user": {
         "id": 104,
         "username": "nature_lovers",
@@ -89,7 +89,7 @@
       "timestamp": "2 days ago"
     },
     {
-      "id": 5,
+      "id": "5",
       "user": {
         "id": 105,
         "username": "code_daily",
@@ -111,36 +111,36 @@
       "timestamp": "3 days ago"
     }
   ],
-  "profile":{
+  "profile": {
     "id": 101,
-    "username": "siva_dev",
+    "username": "new_sparrow",
     "profilePic": "https://i.pravatar.cc/150?img=12"
   },
-  "suggestions":[
-       {
-        "id": 102,
-        "username": "travel_with_raj",
-        "profilePic": "https://i.pravatar.cc/150?img=13"
-      },
-      {
-        "id": 103,
-        "username": "foodie_corner",
-        "profilePic": "https://i.pravatar.cc/150?img=14"
-      },
-      {
-        "id": 104,
-        "username": "nature_lovers",
-        "profilePic": "https://i.pravatar.cc/150?img=15"
-      },
-       {
-        "id": 105,
-        "username": "code_daily",
-        "profilePic": "https://i.pravatar.cc/150?img=16"
-      }
+  "suggestions": [
+    {
+      "id": "102",
+      "username": "travel_with_raj",
+      "profilePic": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": "103",
+      "username": "foodie_corner",
+      "profilePic": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": "104",
+      "username": "nature_lovers",
+      "profilePic": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "105",
+      "username": "code_daily",
+      "profilePic": "https://i.pravatar.cc/150?img=16"
+    }
   ],
   "story": [
     {
-      "id": 1,
+      "id": "1",
       "user": {
         "id": 101,
         "username": "siva_dev",
@@ -149,7 +149,7 @@
       "image": "https://picsum.photos/id/1015/600/600"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": {
         "id": 102,
         "username": "travel_with_raj",
@@ -158,7 +158,7 @@
       "image": "https://picsum.photos/id/1016/600/600"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": {
         "id": 103,
         "username": "foodie_corner",
@@ -167,7 +167,7 @@
       "image": "https://picsum.photos/id/292/600/600"
     },
     {
-      "id": 4,
+      "id": "4",
       "user": {
         "id": 104,
         "username": "nature_lovers",
@@ -176,7 +176,7 @@
       "image": "https://picsum.photos/id/1040/600/600"
     },
     {
-      "id": 5,
+      "id": "5",
       "user": {
         "id": 105,
         "username": "code_daily",
@@ -184,5 +184,22 @@
       },
       "image": "https://picsum.photos/id/0/600/600"
     }
-  ]
-} 
+  ],
+  "followers": [
+    {
+      "id": "104",
+      "username": "nature_lovers",
+      "profilePic": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "105",
+      "username": "code_daily",
+      "profilePic": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": "FcC0hgD6CcU",
+      "username": "travel_with_raj"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

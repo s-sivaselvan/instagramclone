@@ -53,3 +53,8 @@
   border-radius: 50%;
   object-fit: cover;
 }
+
+.profile{
+  height: 100px;
+  width: 100px;
+}
